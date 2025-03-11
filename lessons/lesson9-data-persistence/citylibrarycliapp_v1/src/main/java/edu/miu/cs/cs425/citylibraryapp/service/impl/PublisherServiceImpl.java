@@ -29,7 +29,9 @@ public class PublisherServiceImpl implements PublisherService {
 
     @Override
     public List<Publisher> getAllPublishers() {
-        return publisherRepository.findAll();
+//        return publisherRepository.findAll(); // Inefficient query N+1
+//        return publisherRepository.getAllPublishers();
+        return publisherRepository.getAllPublishers2();
     }
 
     @Override

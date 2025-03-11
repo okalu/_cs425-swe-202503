@@ -48,7 +48,7 @@ public class CitylibrarycliappV1Application { //implements CommandLineRunner {
 //					"2000 N Court Street", "Boston", "MA", "01234");
 			System.out.println("List of Publishers");
 			getAndPrintAllPublishers();
-			System.out.println("Register new membership type");
+//			System.out.println("Register new membership type");
 //			registerAndPrintNewMembershipType(
 //				new MembershipType(
 //						null, "Seniors", 0.10, 21

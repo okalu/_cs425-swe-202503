@@ -25,7 +25,7 @@ public class Publisher {
     private String name;
     private String email;
     private String phoneNumber;
-    @OneToOne(cascade = CascadeType.ALL)
+    @OneToOne(cascade = CascadeType.ALL, fetch = FetchType.EAGER)
     @JoinColumn(name = "primary_address_id", nullable = true, unique = true)
     private Address primaryAddress;
 
