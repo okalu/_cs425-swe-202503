@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/lessons/lesson2c/using-gradle/cs425crmapp5" />
+    <file type="web" url="file://$PROJECT_DIR$/lessons/lesson9-data-persistence/citylibrarycliapp_v1" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/lessons/lessons2c/cs425crmcliapp/pom.xml" />
+        <option value="$PROJECT_DIR$/lessons/lesson2c/cs425crmcliapp/pom.xml" />
+        <option value="$PROJECT_DIR$/lessons/lesson2c/using-maven/using-maven-with-no-archetype/cs425crmcliapp/pom.xml" />
+        <option value="$PROJECT_DIR$/lessons/lesson2c/using-maven/using-maven-with-archetype/cs425crmapp2/pom.xml" />
+        <option value="$PROJECT_DIR$/lessons/lesson2c/using-maven/using-maven-with-archetype-java8/cs425crmapp3/pom.xml" />
+        <option value="$PROJECT_DIR$/lessons/lesson2c/using-maven/using-maven-with-archetype-shalk-jdk8/cs425crmapp3/pom.xml" />
+        <option value="$PROJECT_DIR$/lessons/lesson2c/using-maven/using-maven-with-archetype-ngeor-jdk8/cs425crmapp4/pom.xml" />
+        <option value="$PROJECT_DIR$/exams/midterm/revision/p2q16/midterm-demo-citylibrarycliapp/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/lessons/lesson2c/cs425crmcliapp/pom.xml" />
+        <option value="$PROJECT_DIR$/lessons/lessons2c/cs425crmcliapp/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" project-jdk-name="jdk23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
