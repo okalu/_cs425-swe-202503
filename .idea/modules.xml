@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/_cs425-swe-202503.iml" filepath="$PROJECT_DIR$/_cs425-swe-202503.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/citylibraryapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/citylibraryapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/citylibraryapp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/citylibraryapp.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/citylibrarywebapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/citylibrarywebapp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fairfieldlibrarywebapp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fairfieldlibrarywebapp.main.iml" />
     </modules>
   </component>
 </project>

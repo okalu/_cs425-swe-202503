@@ -2,6 +2,7 @@ package edu.miu.cs.cs425.citylibraryapp;
 
 import edu.miu.cs.cs425.citylibraryapp.model.Address;
 import edu.miu.cs.cs425.citylibraryapp.model.MembershipType;
+import edu.miu.cs.cs425.citylibraryapp.model.Money;
 import edu.miu.cs.cs425.citylibraryapp.model.Publisher;
 import edu.miu.cs.cs425.citylibraryapp.service.AddressService;
 import edu.miu.cs.cs425.citylibraryapp.service.MembershipTypeService;
@@ -48,10 +49,10 @@ public class CitylibrarycliappV1Application { //implements CommandLineRunner {
 //					"2000 N Court Street", "Boston", "MA", "01234");
 			System.out.println("List of Publishers");
 			getAndPrintAllPublishers();
-//			System.out.println("Register new membership type");
+			System.out.println("Register new membership type");
 //			registerAndPrintNewMembershipType(
 //				new MembershipType(
-//						null, "Seniors", 0.10, 21
+//						null, "Seniors", new Money(0.10, "USD"), 21
 //				)
 //			);
 		};

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/lessons/lesson10-spring-webmvc/demo-citylibrarywebapp" />
+    <file type="web" url="file://$PROJECT_DIR$/lessons/lesson10-spring-webmvc/fairfieldlibrarywebapp" />
     <file type="web" url="file://$PROJECT_DIR$/lessons/lesson2c/using-gradle/cs425crmapp5" />
     <file type="web" url="file://$PROJECT_DIR$/lessons/lesson9-data-persistence/citylibrarycliapp_v1" />
   </component>

@@ -21,14 +21,6 @@
         <module name="cs425crmcliapp" />
         <module name="midtermdemocitylibrarycliapp" />
       </profile>
-      <profile name="Gradle Imported" enabled="true">
-        <outputRelativeToContentRoot value="true" />
-        <processorPath useClasspath="false">
-          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.36/5a30490a6e14977d97d9c73c924c1f1b5311ea95/lombok-1.18.36.jar" />
-        </processorPath>
-        <module name="citylibraryapp.main" />
-        <module name="citylibraryapp.test" />
-      </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
@@ -36,6 +28,12 @@
       <module name="citylibraryapp" options="-parameters" />
       <module name="citylibraryapp.main" options="-parameters" />
       <module name="citylibraryapp.test" options="-parameters" />
+      <module name="citylibrarywebapp" options="-parameters" />
+      <module name="citylibrarywebapp.main" options="-parameters" />
+      <module name="citylibrarywebapp.test" options="-parameters" />
+      <module name="fairfieldlibrarywebapp" options="-parameters" />
+      <module name="fairfieldlibrarywebapp.main" options="-parameters" />
+      <module name="fairfieldlibrarywebapp.test" options="-parameters" />
     </option>
   </component>
 </project>
